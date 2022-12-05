@@ -11,7 +11,7 @@ function App() {
      <Box text='PROJECTS' href='https://my-projects-eta.vercel.app/'/>
      <Box text='RESUME' href={Resumeupdated}/>
      <Box text='GITHUB' href='https://github.com/Ehtishammushtaq'/>
-
+    
    </div>
     
       
