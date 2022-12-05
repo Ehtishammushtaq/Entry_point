@@ -8,7 +8,7 @@ function App() {
    <div>
      <Profile/>
      <Box text='LINKDIN' href='https://www.linkedin.com/in/ehtishammushtaq/'/>
-     <Box text='PROJECTS' href='http://people.ku.edu/~e825m502/'/>
+     <Box text='PROJECTS' href='https://my-projects-eta.vercel.app/'/>
      <Box text='RESUME' href={Resumeupdated}/>
      <Box text='GITHUB' href='https://github.com/Ehtishammushtaq'/>
 
