@@ -2,7 +2,6 @@ import Resumeupdated from './components/files/Resumeupdated.pdf'
 import Box from './components/box';
 import './App.css';
 import Profile from './components/profile';
-import Weather from './components/weather';
 
 function App() {
   return (
