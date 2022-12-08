@@ -8,7 +8,6 @@ function App() {
     
    <div>
      <Profile/>
-      <Weather/>
      <Box text='LINKDIN' href='https://www.linkedin.com/in/ehtishammushtaq/'/>
      <Box text='PROJECTS' href='https://my-projects-eta.vercel.app/'/>
      <Box text='RESUME' href={Resumeupdated}/>
