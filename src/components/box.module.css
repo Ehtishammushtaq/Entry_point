@@ -11,7 +11,7 @@ body{
     background-color: #000000;
     box-shadow: 0 0 40px rgb(8 7 16 / 60%);
     padding: 30px 35px;
-    transform: translate(600px,10px);
+    transform: translate(400px,10px);
     
   }
   .box:hover{
@@ -22,7 +22,7 @@ body{
     background-color: #005fc5;
     box-shadow: 0 0 40px rgb(8 7 16 / 60%);
     padding: 30px 35px;
-    transform: translate(600px,10px);
+    transform: translate(400px,10px);
 
     
   }
